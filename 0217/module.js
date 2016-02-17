@@ -12,16 +12,18 @@
 //}
 //
 //console.timeEnd('alpha');
+//시간값 구하기
 
-exports.abs= function(number){
-    if(0< number){
-        return number;
-    }
-    else{
-        return-number;
-    }
-};
-
-exports.circleArea = function(radius){
-    return radius*radius*Math.PI;
-};
+//exports.abs= function(number){
+//    if(0< number){
+//        return number;
+//    }
+//    else{
+//        return-number;
+//    }
+//};
+//
+//exports.circleArea = function(radius){
+//    return radius*radius*Math.PI;
+//};
+//모듈만들기1
