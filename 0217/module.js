@@ -27,3 +27,17 @@
 //    return radius*radius*Math.PI;
 //};
 //모듈만들기1
+
+//var custom = newprocess.EventEmitter();
+//custom.on('tick', function(){
+//    console.log('이벤트를 실행합니다.');
+//})
+//custom.emit('tick');
+//객체생성 예
+
+//exports.timer= new process.EventEmitter();
+//
+//setInterval(function (){
+//    exports.timer.emit('tick');
+//},1000);
+//객체 생성 및 연결하는중
