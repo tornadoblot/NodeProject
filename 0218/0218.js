@@ -25,3 +25,4 @@ http.createServer(function(req, res){
 }).listen(3000,function(){
     console.log('serVer RUnasdfa');
 });
+//쿠키사용해보기
